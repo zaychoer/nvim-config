@@ -6,6 +6,12 @@
 
 Vim-Plug
 
+### Instal Vim-Plug
+```
+sh -c 'curl -fLo "${XDG_DATA_HOME:-$HOME/.local/share}"/nvim/site/autoload/plug.vim --create-dirs \
+       https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim'
+```
+
 
 ### Plugins
 
@@ -20,6 +26,10 @@ Vim-Plug
 - Etc
 
 ### Source
+<a href="https://github.com/junegunn/vim-plug">
+Vim-Plug
+</a>
+<br>
 <a href="https://github.com/anchietajunior/nvim-configs">
 Anchieta Júnior Nvim Config for Ruby and Rails Development
 </a>
